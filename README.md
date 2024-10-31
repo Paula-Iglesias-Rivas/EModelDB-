@@ -31,5 +31,5 @@ Future updates to the database will involve adding new models and possibly modif
 relevant to protein evolution research. The interface will also undergo changes in order to make it more useful. 
 If you have any questions, please send an email to:
 
-p.rivas@udc.es
+paula.iglesias.rivas@uvigo.es
 
